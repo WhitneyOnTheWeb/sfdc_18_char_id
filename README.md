@@ -1,5 +1,5 @@
 # sfdc_18_char_id
-Redshift UDF in Python for converting 15 character IDs to 18 characters
+Redshift UDF in Python for converting 15 character Salesforce IDs to 18 character IDs
 
 ## Description
 Redshift allows the creation of scalar user-defined functions in Python or SQL.
